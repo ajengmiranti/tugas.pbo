@@ -1,0 +1,2 @@
+Ini adalah isi file kedua.
+Baris kedua dari file kedua.
